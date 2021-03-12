@@ -28,8 +28,8 @@ document.write('\
   <a href="http://stanford.edu/">\
     <img src="images/stanfordlogo.png" class="logo-right">\
   </a>\
-  <h1>CS 329S: Machine Learning Systems Design</h1>\
-  <h3>Stanford, Winter 2021</h3>\
+  <h1>CS 329T: Trustworthy Machine Learning</h1>\
+  <h3>Stanford, Spring 2021</h3>\
   <div style="clear:both;"></div>\
 </div>\
 ');
