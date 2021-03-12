@@ -1,2 +1,1 @@
-# stanford-cs329t.github.io
-course website
+# mlsysdesign.github.io
